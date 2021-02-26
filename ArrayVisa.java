@@ -31,7 +31,7 @@ public class ArrayVisa {
         return false;
     }
 
-    //swap: time complexity O(n)
+    //swap: time complexity O(n)? not sure of the complexity, but it is definitely faster than brute force
     public static void main(String[] args) {
         
         int[] arr = {2,0,3,100,5};
