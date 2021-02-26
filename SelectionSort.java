@@ -1,8 +1,8 @@
 public class SelectionSort {
     /*
      * arr[] = {64, 25, 12, 22, 11}
-     * go through each element, and insert them in the previously sorted part of the array
-     * it's difficult to insert into i th index, so just switch it with the first(second, third, etc.) element
+     * go through each element, and select the right position for them in the previously sorted part of the array
+     * switch it with the previous sorted elements for the right position of the element
      * Complexity O(n^2)
      */
     public static void main(String[] args) {
