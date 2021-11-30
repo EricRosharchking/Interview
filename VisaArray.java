@@ -1,4 +1,4 @@
-public class ArrayVisa {
+public class VisaArray {
     /*
     I/p: arr=[0,2,3,100,5]
     O/p: arr=[0,-1,2,3,-1]
